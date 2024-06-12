@@ -7,7 +7,7 @@ This application allows you to check your internet before even launching the gam
 3. Wait for 25 pings
 
 ## Accuracy
-On EUNE, the measurements are accurate, tested on practice tool
+On EUNE, the measurements are accurate, tested on practice tool<br>
 ![EUNE server](https://i.imgur.com/0z0ShB2.png)
 
 ## TODO
